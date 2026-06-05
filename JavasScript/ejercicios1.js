@@ -18,7 +18,7 @@ function calcularImpuestos(edad, ingresos) {
 console.log("2.", calcularImpuestos(20, 2000));
 
 
-// 3. IMC
+// 3. IMC.
 function bmi(peso, altura) {
   let imc = peso / (altura * altura);
 
